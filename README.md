@@ -53,7 +53,7 @@
 ### 📫 Connect with Me
 
 - 📧 Email: mail4you.in@gmail.com
-- 💼 LinkedIn: [[linkedin.com/in/ahmadgull](https://linkedin.com/in/ahmadgull)](https://www.linkedin.com/in/ahmad-gull-3a7117373/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BzGMAJuCERbiyP7xH5LxoOA%3D%3D)
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmad-gull-3a7117373/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BCG8OmIRYSLCwCzuuvsqZCg%3D%3D
 
 ---
 
