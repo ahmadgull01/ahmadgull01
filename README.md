@@ -52,36 +52,13 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: ahmadgull.dev@gmail.com *(example placeholder)*
-- 💼 LinkedIn: [linkedin.com/in/ahmadgull](https://linkedin.com/in/ahmadgull)
+- 📧 Email: mail4you.in@gmail.com
+- 💼 LinkedIn: [[linkedin.com/in/ahmadgull](https://linkedin.com/in/ahmadgull)](https://www.linkedin.com/in/ahmad-gull-3a7117373/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BzGMAJuCERbiyP7xH5LxoOA%3D%3D)
 
 ---
 
 ### 🧠 Fun Fact
 
-> I love simplifying complex systems into clean, readable code — and giving GUIs a smooth, animated touch using tools like **React** and **Framer Motion**.
+> I love simplifying complex systems into clean, readable code — and giving GUIs a smooth, animated touch.
 
 ---
-
-### ⚛️ React Animation Snippet (Bonus)
-
-If you want to animate your portfolio using React, here’s a sample snippet:
-
-```jsx
-// Example: Typing effect for portfolio intro (React)
-import React from "react";
-import Typing from "react-typing-effect";
-
-const AnimatedIntro = () => (
-  <Typing
-    speed={100}
-    eraseDelay={2000}
-    text={[
-      "Java Developer 🚀",
-      "OOP & Clean Code Enthusiast",
-      "Java Swing UI Designer",
-    ]}
-  />
-);
-
-export default AnimatedIntro;
