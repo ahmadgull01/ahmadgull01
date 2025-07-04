@@ -22,7 +22,7 @@
 
 ### 💻 Tech Stack
 
-- **Languages:** Java, C++, HTML, CSS, JavaScript (Basic)
+- **Languages:** Java, C++, HTML, CSS
 - **Java GUI Frameworks:** Java Swing (strong), JavaFX (learning)
 - **OOP Concepts:** Encapsulation, Inheritance, Polymorphism, Abstraction
 - **Tools:** VS Code, IntelliJ IDEA, Git, GitHub
