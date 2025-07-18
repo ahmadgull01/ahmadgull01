@@ -16,7 +16,7 @@
 - Object-Oriented Programming (OOP)
 - GUI development (Java Swing, exploring JavaFX)
 
-🌱 I’m always learning — currently exploring **modern frameworks** and **design principles** to build **scalable, maintainable applications**.
+I’m always learning — currently exploring **modern frameworks** and **design principles** to build **scalable, maintainable applications**.
 
 ---
 
@@ -31,14 +31,14 @@
 
 ### 🚀 Projects
 
-#### 🔆 SolarSync Society Management System
+#### SolarSync Society Management System
 
-- 🏘 Developed a **terminal-based management system** to track and manage solar homes.
-- 🎨 Designed an **intuitive GUI interface with Java Swing** to improve usability and interaction.
-- 📊 Features: Customer/Admin login, Eco Score calculation, appliance tracking, color-coded outputs, and bill generation.
-- ⚙️ Focused on clean architecture and reusable OOP design patterns.
+- Developed a **terminal-based management system** to track and manage solar homes.
+- Designed an **intuitive GUI interface with Java Swing** to improve usability and interaction.
+- Features: Customer/Admin login, Eco Score calculation, appliance tracking, color-coded outputs, and bill generation.
+- ⚙Focused on clean architecture and reusable OOP design patterns.
 
-> 💬 *"Driven by simplicity and innovation, I believe software should be both functional and delightful."*
+> *"Driven by simplicity and innovation, I believe software should be both functional and delightful."*
 
 ---
 
